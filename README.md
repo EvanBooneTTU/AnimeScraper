@@ -1,14 +1,15 @@
-# 4anime Scraper
+# Anime Scraper
 
 ## How to install the dependencies
+
 Inside the project directory use:
 
 > pip3 install -r requirements.txt
-or
+> or
 > pip install -r requirements.txt
 
-
 ## How to run the script
+
 Inside the project directory use:
 
 > python3 main.py
